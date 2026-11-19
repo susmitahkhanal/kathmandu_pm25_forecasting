@@ -7,3 +7,5 @@ torch==2.13.0
 optuna==5.0.0
 matplotlib==3.10.8
 seaborn==0.13.2
+streamlit==1.56.0
+altair==6.1.0
